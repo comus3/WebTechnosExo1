@@ -47,7 +47,7 @@
 .experience h2{
     font-size: 20px;
     font-weight: bold;
-    color: #173;
+    color: rgb(150, 4, 4);
 }
 
 /*Classes de COMPETENCES*/
@@ -74,7 +74,7 @@
 .competences h2 {
     font-size: 20px;
     font-weight: bold;
-    color: #173;
+    color: rgb(150, 4, 4);
 }
 
 /* CLASSES POUR FORMATION BLOC */
@@ -93,7 +93,7 @@
 .formation h2 {
     font-size: 20px;
     font-weight: bold;
-    color: #173;
+    color: rgb(150, 4, 4);
 }
 
 .formation p {
