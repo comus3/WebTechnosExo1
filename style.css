@@ -1,0 +1,20 @@
+/* TITLE*/
+.titre {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* ITALIQUE (arial) */
+.italic-text {
+    font-style: italic;
+    font-family: Arial, sans-serif;
+    color: #555;
+}
+
+/* Normal Text (ARIAL) */
+.normal-text {
+    font-family: Arial, sans-serif;
+    color: #777;
+    margin-top: 10px;
+}
