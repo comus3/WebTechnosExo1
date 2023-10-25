@@ -18,3 +18,30 @@
     color: #777;
     margin-top: 10px;
 }
+
+
+
+
+/*Classes de COMPETENCES*/
+.competences {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+
+.competences ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.competences li {
+    margin: 5px 0;
+}
+
+.competences h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
