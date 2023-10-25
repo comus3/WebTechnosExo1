@@ -1,6 +1,6 @@
 /* TITLE*/
 .titre {
-    font-size: 24px;
+    font-size: 27px;    
     font-weight: bold;
     color: #ffffff;
 }
@@ -91,4 +91,17 @@
     margin: 5px 0;
     font-family: Arial, sans-serif;
     color: #000000;
+}
+
+
+
+
+/* bloc rouge */
+.bloc-rouge {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%; /* toute la hauteur de l'écran */
+    width: 5%; /* 5% de la largeur de l'écran */
+    background-color: red;
 }
