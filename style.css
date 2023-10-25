@@ -34,12 +34,14 @@
 /*classes de exeperience*/
 
 .experience {
-    margin-top: 20px;
+    margin-top: 100px;
     border: 1px solid #ccc;
     padding: 20px;
     background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 30%;
+    float: right;
 }
 
 .experience h2{
@@ -50,12 +52,14 @@
 
 /*Classes de COMPETENCES*/
 .competences {
-    margin-top: 20px;
+    margin-top: 100px;
     border: 1px solid #ccc;
     padding: 20px;
-        background-color: rgba(233, 122, 122, 0.8);
+    background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 30%;
+    float: right;
 }
 
 .competences ul {
@@ -76,12 +80,14 @@
 /* CLASSES POUR FORMATION BLOC */
 
 .formation {
-    margin-top: 20px;
+    margin-top: 100px;
     border: 1px solid #ccc;
     padding: 20px;
-        background-color: rgba(233, 122, 122, 0.8);
+    background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 25%;
+    float: right;
 }
 
 .formation h2 {
