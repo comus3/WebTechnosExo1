@@ -86,7 +86,7 @@
     background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
-    width: 25%;
+    width: 30%;
     float: right;
 }
 
@@ -114,3 +114,6 @@
     width: 5%; /* 5% de la largeur de l'écran */
     background-color: red;
 }
+
+
+/* utiliser flex pour regler le probleme de spacing */
