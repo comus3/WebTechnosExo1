@@ -15,7 +15,7 @@
 /* Normal Text (ARIAL) */
 .normal-text {
     font-family: Arial, sans-serif;
-    color: #777;
+    color: #000000;
     margin-top: 10px;
 }
 
@@ -34,7 +34,7 @@
     margin-top: 20px;
     border: 1px solid #ccc;
     padding: 20px;
-    background-color: rgba(245, 245, 245, 0.8);
+    background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -50,7 +50,7 @@
     margin-top: 20px;
     border: 1px solid #ccc;
     padding: 20px;
-    background-color: rgba(245, 245, 245, 0.8);
+        background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -76,7 +76,7 @@
     margin-top: 20px;
     border: 1px solid #ccc;
     padding: 20px;
-    background-color: rgba(245, 245, 245, 0.8);
+        background-color: rgba(233, 122, 122, 0.8);
     border-radius: 5px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
@@ -90,5 +90,5 @@
 .formation p {
     margin: 5px 0;
     font-family: Arial, sans-serif;
-    color: #777;
+    color: #000000;
 }
